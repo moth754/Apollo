@@ -1,0 +1,7 @@
+server: 192.168.0.1
+directory: C:\Users\timmo\Downloads\*
+filemon: 1
+lifemon: 1
+url: http://stream.crossrhythms.co.uk/plymouth/hq.mp3
+urlmon: 1
+machine: testpc
